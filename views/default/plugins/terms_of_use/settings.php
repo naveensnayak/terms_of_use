@@ -41,4 +41,3 @@ $form_body .= "</div>";
 
 echo $form_body;
 
-
